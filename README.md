@@ -1,6 +1,6 @@
 # ProyectoIA
 My first AI project 
-Mateo Yepes Sierra 
+integrantes del equipo:Mateo Yepes Sierra-ingeniería mecánica, Cesa Augusto Lopez- ingeniería eléctrica, Brahian Monsalve Mejía-Ingeniería civil.
 1036951588
 Ingenieria mecanica
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
