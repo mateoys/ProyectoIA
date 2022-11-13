@@ -5,11 +5,11 @@ My first AI project
 integrantes del equipo:Mateo Yepes Sierra-ingeniería mecánica-1036951588
 
 
-Cesar Augusto Lopez- ingeniería eléctrica-020470727
+Cesar Augusto Lopez- ingeniería eléctrica-1020470727
 
 
 
-Brahian Monsalve Mejía-Ingeniería civil-
+Brahian Monsalve Mejía-Ingeniería civil-1000406621
 
 
 
