@@ -17,7 +17,7 @@ Dentro del notebook de la entrega final hay un conjunto de comandos que cumplen 
 
 *Video de la entrega 1:* https://youtu.be/wSamwTnGoRc
 
-*Video de la entrega 2:*  https://youtu.be/wSamwTnGoRc
+*Video de la entrega 2:*  https://www.youtube.com/watch?v=bCO8EcC-EXY
 
 # Nota sobre el código: 
 ## en caso de que la primera celda "!pip install pycaret" no se ejecute correctamente, se debe reiniciar el Google Compute Engine. Esta opción aparecerá al final del error si es que surge.
